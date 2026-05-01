@@ -10,9 +10,17 @@ author_profile: true
 
 ## Accepted Papers (2026)
 
-1. G. Srivastava, **A. Hussain**, Z. Bi, S. Roy, P. Pitre, M. Lu, M. Ziyadi, and X. Wang. "BeyondBench: Benchmark-Free Evaluation of Reasoning in Language Models." In *Proc. The Fourteenth International Conference on Learning Representations* **(ICLR 2026)**, April 23-27, 2026, Rio de Janeiro, Brazil. [<a href="https://www.arxiv.org/abs/2509.24210" target="_blank">arXiv</a>] [<a href="https://ctrl-gaurav.github.io/BeyondBench/" target="_blank">leaderboard</a>]
+1. **A. Hussain**, G. Srivastava, A. Ishmam, Z. Hakim, and C. Thomas. "SoundBreak: A Systematic Study of Audio-Only Adversarial Attacks on Trimodal Models." Accepted at *Annual Meeting of the Association for Computational Linguistics (ACL 2026 Main Conference)* **(Acceptance Rate: 19%)**. [<a href="https://arxiv.org/abs/2601.16231" target="_blank">paper</a>]
 
-2. P. Zhou, A. Asgarov, **A. Hussain**, W. Park, A. Paudyal, S. Shrestha, C. Tang + 5 authors. "Designing Multi-Robot Ground Video Sensemaking with Public Safety Professionals." **(CHI 2026)**. [<a href="https://arxiv.org/abs/2602.08882" target="_blank">arXiv</a>]
+2. G. Srivastava, **A. Hussain**, C. Wang, Y. C. Lin, and X. Wang. "EffGen: Enabling Small Language Models as Capable Autonomous Agents." Accepted at *International Conference on Machine Learning (ICML 2026)* **(Acceptance Rate: 26.6%)**. [<a href="https://arxiv.org/abs/2602.00887" target="_blank">paper</a>] [<a href="https://effgen.org/" target="_blank">website</a>]
+
+
+3. G. Srivastava, **A. Hussain**, S. Srinivasan, and X. Wang. "Do LLMs Overthink Basic Math Reasoning? Benchmarking the Accuracy-Efficiency Tradeoff in Language Models." To appear in *Findings of the Annual Meeting of the Association for Computational Linguistics (ACL 2026)* **(Findings Acceptance Rate: 18%)**. [<a href="https://arxiv.org/abs/2507.04023" target="_blank">paper</a>] [<a href="https://ctrl-gaurav.github.io/LLMThinkBench/" target="_blank">leaderboard</a>].
+
+
+4. G. Srivastava, **A. Hussain**, Z. Bi, S. Roy, P. Pitre, M. Lu, M. Ziyadi, and X. Wang. "BeyondBench: Benchmark-Free Evaluation of Reasoning in Language Models." In *International Conference on Learning Representations* **(ICLR 2026, Acceptance Rate: 28%)**. [<a href="https://openreview.net/forum?id=mIKqVWGjwI" target="_blank">paper</a>] [<a href="https://ctrl-gaurav.github.io/BeyondBench/" target="_blank">leaderboard</a>]
+
+5. P. Zhou, A. Asgarov, **A. Hussain**, W. Park, A. Paudyal, S. Shrestha, C.-W. Tang, M. F. Lighthiser, M. R. Hieb, X. Xiao, C. Thomas, and S. R. Hong. "Designing Multi-Robot Ground Video Sensemaking with Public Safety Professionals." In *Proc. ACM Conference on Human Factors in Computing Systems* **(CHI 2026, Acceptance Rate: 25.3%)**. [<a href="https://dl.acm.org/doi/10.1145/3772318.3790679" target="_blank">paper</a>]
 
 -------
 
