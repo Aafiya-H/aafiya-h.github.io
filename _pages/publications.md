@@ -26,13 +26,7 @@ author_profile: true
 
 ## Preprints Under Review
 
-1. **A. Hussain**, G. Srivastava, A.M. Ishmam, Z. Hakim, and C. Thomas. "SoundBreak: A Systematic Study of Audio-Only Adversarial Attacks on Trimodal Models." **(Under review at ACL 2026)** [<a href="https://arxiv.org/abs/2601.16231" target="_blank">arXiv</a>]
-
-2. G. Srivastava, **A. Hussain**, C. Wang, Y.C. Lin, and X. Wang. "effGen: Enabling Small Language Models as Capable Autonomous Agents." **(Under review at ICML 2026)** [<a href="https://arxiv.org/abs/2602.00887" target="_blank">arXiv</a>] [<a href="https://effgen.org/" target="_blank">effGen.org</a>]
-
-3. G. Srivastava, **A. Hussain**, S. Srinivasan, and X. Wang. "Do LLMs Overthink Basic Math Reasoning? Benchmarking the Accuracy-Efficiency Tradeoff in Language Models." arXiv preprint arXiv:2507.04023 (2025). [<a href="https://arxiv.org/abs/2507.04023" target="_blank">arXiv</a>] [<a href="https://ctrl-gaurav.github.io/llmthinkbench.github.io/" target="_blank">leaderboard</a>]
-
-4. K.S. Mehrab, A. Neog, G. Srivastava, **A. Hussain**. "Can Large Vision Language Models Ground Fine-Grained Attribute?"
+1. K.S. Mehrab, A. Neog, G. Srivastava, **A. Hussain**. "Can Large Vision Language Models Ground Fine-Grained Attribute?"
 
 -------
 
