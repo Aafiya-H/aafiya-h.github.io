@@ -6,16 +6,15 @@ author_profile: true
 ---
 {% include base_path %}
 
-<p><strong>Google Scholar citations: 176, h-index: 4</strong> &nbsp;&mdash;&nbsp; <a href="https://scholar.google.com/citations?user=EUgRResAAAAJ&hl=en" target="_blank"><strong>Google Scholar Profile</strong></a></p>
+<p><strong>Google Scholar citations: 204, h-index: 5</strong> &nbsp;&mdash;&nbsp; <a href="https://scholar.google.com/citations?user=EUgRResAAAAJ&hl=en" target="_blank"><strong>Google Scholar Profile</strong></a></p>
 
 ## Accepted Papers (2026)
 
-1. **A. Hussain**, G. Srivastava, A. Ishmam, Z. Hakim, and C. Thomas. "SoundBreak: A Systematic Study of Audio-Only Adversarial Attacks on Trimodal Models." Accepted at *Annual Meeting of the Association for Computational Linguistics (ACL 2026 Main Conference)* **(Acceptance Rate: 19%)**. [<a href="https://arxiv.org/abs/2601.16231" target="_blank">paper</a>]
+1. **A. Hussain**, G. Srivastava, A. M. Ishmam, Z. Hakim, and C. Thomas. "SoundBreak: A Systematic Study of Audio-Only Adversarial Attacks on Trimodal Models." In *Proc. of the 64th Annual Meeting of the Association for Computational Linguistics* **(ACL'26 Main, Acceptance Rate: 19%)**, pages TBD, July 2–7, 2026, San Diego, CA. [<a href="https://arxiv.org/abs/2601.16231" target="_blank">paper</a>]
 
-2. G. Srivastava, **A. Hussain**, C. Wang, Y. C. Lin, and X. Wang. "EffGen: Enabling Small Language Models as Capable Autonomous Agents." Accepted at *International Conference on Machine Learning (ICML 2026)* **(Acceptance Rate: 26.6%)**. [<a href="https://arxiv.org/abs/2602.00887" target="_blank">paper</a>] [<a href="https://effgen.org/" target="_blank">website</a>]
+2. G. Srivastava, **A. Hussain**, C. Wang, Y. (Celine) Lin, and X. Wang. "effGen: Enabling Small Language Models as Capable Autonomous Agents." In *Proc. Forty-third International Conference on Machine Learning* **(ICML'26, Acceptance Rate: 26.6%)**, pages TBD, 2026. [<a href="https://arxiv.org/abs/2602.00887" target="_blank">paper</a>] [<a href="https://effgen.org/" target="_blank">effgen.org</a>] [<a href="https://docs.effgen.org/" target="_blank">docs</a>]
 
-
-3. G. Srivastava, **A. Hussain**, S. Srinivasan, and X. Wang. "Do LLMs Overthink Basic Math Reasoning? Benchmarking the Accuracy-Efficiency Tradeoff in Language Models." To appear in *Findings of the Annual Meeting of the Association for Computational Linguistics (ACL 2026)* **(Findings Acceptance Rate: 18%)**. [<a href="https://arxiv.org/abs/2507.04023" target="_blank">paper</a>] [<a href="https://ctrl-gaurav.github.io/LLMThinkBench/" target="_blank">leaderboard</a>].
+3. G. Srivastava, **A. Hussain**, S. Srinivasan, and X. Wang. "Do LLMs Overthink Basic Math Reasoning? Benchmarking the Accuracy-Efficiency Tradeoff in Language Models." In *Proc. of the 64th Annual Meeting of the Association for Computational Linguistics* **(ACL'26 Findings, Acceptance Rate: 18%)**, pages TBD, July 2–7, 2026, San Diego, CA. [<a href="https://arxiv.org/abs/2507.04023" target="_blank">paper</a>] [<a href="https://ctrl-gaurav.github.io/LLMThinkBench/" target="_blank">leaderboard</a>]
 
 
 4. G. Srivastava, **A. Hussain**, Z. Bi, S. Roy, P. Pitre, M. Lu, M. Ziyadi, and X. Wang. "BeyondBench: Benchmark-Free Evaluation of Reasoning in Language Models." In *International Conference on Learning Representations* **(ICLR 2026, Acceptance Rate: 28%)**. [<a href="https://openreview.net/forum?id=mIKqVWGjwI" target="_blank">paper</a>] [<a href="https://ctrl-gaurav.github.io/BeyondBench/" target="_blank">leaderboard</a>]
@@ -42,4 +41,4 @@ author_profile: true
 
 -------
 
-<p><strong>*Complete list of publications</strong> &mdash; <a href="https://scholar.google.com/citations?user=EUgRResAAAAJ&hl=en" target="_blank"><strong>Google Scholar</strong></a>, <strong>citations:</strong> 176, <strong>h-index:</strong> 4</p>
+<p><strong>*Complete list of publications</strong> &mdash; <a href="https://scholar.google.com/citations?user=EUgRResAAAAJ&hl=en" target="_blank"><strong>Google Scholar</strong></a>, <strong>citations:</strong> 204, <strong>h-index:</strong> 5</p>

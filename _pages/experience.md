@@ -7,6 +7,11 @@ author_profile: true
 
 # Work Experience
 
+## <i class="fa fa-laptop" aria-hidden="true"></i> [Robot Toolworx](https://www.robottoolworx.com/)
+### Machine Learning Engineer
+*Jun 2026 - Present* | Rutherford, NJ, USA
+* Building agentic workflows to assist non-expert aerospace, maritime, and automotive technicians using multimodal knowledge graphs for information retrieval
+
 ## <i class="fa fa-laptop" aria-hidden="true"></i> [Nokia Bell Labs](https://www.bell-labs.com/)
 ### Computer Vision Intern (Industrial Metaverse)
 *Jun 2025 - Aug 2025* | Murray Hill, NJ, USA
